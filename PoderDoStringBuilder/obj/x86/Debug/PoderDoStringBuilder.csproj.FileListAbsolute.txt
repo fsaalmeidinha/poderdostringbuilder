@@ -1,0 +1,5 @@
+C:\Users\Felipe\Desktop\PoderDoStringBuilder\PoderDoStringBuilder\obj\x86\Debug\Blogger.exe
+C:\Users\Felipe\Desktop\PoderDoStringBuilder\PoderDoStringBuilder\obj\x86\Debug\Blogger.pdb
+C:\Users\Felipe\Desktop\PoderDoStringBuilder\PoderDoStringBuilder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\PoderDoStringBuilder\PoderDoStringBuilder\bin\Debug\Blogger.exe
+C:\Users\Felipe\Desktop\PoderDoStringBuilder\PoderDoStringBuilder\bin\Debug\Blogger.pdb
